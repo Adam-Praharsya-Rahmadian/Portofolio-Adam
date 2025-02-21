@@ -1,0 +1,28 @@
+url: https://business-science.github.io/timetk/
+template:
+  bootstrap: 5
+  bootswatch: lux
+  params:
+    ganalytics: G-20GDZ5LL77
+navbar:
+  bg: primary
+  title: portfoliodown
+  left:
+  - icon: fa-home
+    href: index.html
+  - text: Getting Started
+    href: articles/getting-started-portfoliodown.html
+  - text: Themes
+    href: articles/themes.html
+  - text: API Reference
+    href: reference/index.html
+  structure:
+    right:
+    - search
+    - github
+  components:
+    github:
+      icon: fa-github
+      href: https://github.com/business-science/portfoliodown
+      aria-label: GitHub
+

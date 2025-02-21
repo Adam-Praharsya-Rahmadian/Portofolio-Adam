@@ -1,0 +1,11 @@
+pandoc: 3.1.1
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  getting-started-portfoliodown: getting-started-portfoliodown.html
+  themes: themes.html
+last_built: 2023-11-03T14:22Z
+urls:
+  reference: https://business-science.github.io/timetk/reference
+  article: https://business-science.github.io/timetk/articles
+
